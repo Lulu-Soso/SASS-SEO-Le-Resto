@@ -73,7 +73,7 @@
                     margin-bottom: 5px;
                 }
             }
-            > p { /* concerne seulement son enfant direct */
+            > p { /* concerne seulement son enfant direct dans la div*/
                 color: $color1;
                 font-weight: 600;
                 font-size: 1.1rem;
